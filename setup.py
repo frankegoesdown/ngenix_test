@@ -1,8 +1,9 @@
-from setuptools import setup, find_packages
+from setuptools import setup
 from os.path import join, dirname
 
 install_requires = [
     'lxml==3.7.2',
+    'futures==3.0.5',
 ]
 
 setup(

@@ -1,0 +1,2 @@
+class ZipGenerateException(Exception):
+    pass
