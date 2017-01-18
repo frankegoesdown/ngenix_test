@@ -9,7 +9,7 @@ ngenix test task
         python parse.py
 
 0. Remove all folders with files:
-        python.clean
+        python clean.py
 
 0. Run all commands:
         python main.py
