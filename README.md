@@ -1,6 +1,22 @@
 # ngenix_test
 ngenix test task
 
+
+0. Create zip archives with 50 xml files in temp folder
+    python generate.py
+
+0. Create csv files with parsed data from zip archives in temp folder
+    python parse.py
+
+0. Remove all folders with files
+    python.clean
+
+0. Run all commands
+    python main.py
+
+Requirements:
+    pip install -r requirements.txt
+
 DESCRIPTION
 
 ================
